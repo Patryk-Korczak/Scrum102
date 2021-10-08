@@ -16,6 +16,10 @@ public class Main extends Application {
         System.out.println("test");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
+        System.out.println("test2");
+        System.out.println("test4");
+        System.out.println("test3");
+
     }
 
 
